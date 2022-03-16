@@ -2,7 +2,7 @@
  
 The repository contains an ongoing collection of tweets IDs associated with the current conflict in Ukraine and Russia, which we commenced collecting on Februrary 22, 2022. We leveraged Twitter's search API to extract historical tweets, leading our dataset to contain tweets from February 17, 2022. These tweets are currently being processed and tweet IDs from Februrary 17 - 22 will be published in our next release. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
 
-The associated paper to this repository will be updated shortly, once the paper is published on ArXiv.
+The associated paper to this repository can be found here: [Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set](https://arxiv.org/abs/2203.07488)
 
 
 ## Data Organization
@@ -43,7 +43,21 @@ python3 hydrate.py
 ```
 
 # Data Usage Agreement / How to Cite
-This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: (link to paper will be updated once the paper has been published on ArXiv)
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
+
+Emily Chen and Emilio Ferrara. 2022. Tweets in Time of Conflict: A Public Dataset Tracking the Twitter Discourse on the War Between Ukraine and Russia. arXiv:cs.SI/2203.07488
+
+BibTeX:
+```bibtex
+@misc{chen2022tweets,
+      title={Tweets in Time of Conflict: A Public Dataset Tracking the Twitter Discourse on the War Between Ukraine and Russia}, 
+      author={Emily Chen and Emilio Ferrara},
+      year={2022},
+      eprint={2203.07488},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI}
+}
+```
 
 
 # Statistics Summary (v1.0)

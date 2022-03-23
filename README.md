@@ -2,7 +2,7 @@
  
 The repository contains an ongoing collection of tweets IDs associated with the current conflict in Ukraine and Russia, which we commenced collecting on Februrary 22, 2022. We leveraged Twitter's search API to extract historical tweets, leading our dataset to contain tweets from February 17, 2022. These tweets are currently being processed and tweet IDs from February 17 - 22 will be published in our next release. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
 
-The associated paper to this repository can be found here: [Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set](https://arxiv.org/abs/2203.07488)
+The associated paper to this repository can be found here: [Tweets in Time of Conflict: A Public Dataset Tracking the Twitter Discourse on the War Between Ukraine and Russia](https://arxiv.org/abs/2203.07488)
 
 
 ## Data Organization

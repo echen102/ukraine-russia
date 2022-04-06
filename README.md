@@ -46,27 +46,27 @@ python3 hydrate.py
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: (link to paper will be updated once the paper has been published on ArXiv)
 
 
-# Statistics Summary (v1.0)
-Number of Tweets : **63,417,299**
+# Statistics Summary (v1.1)
+Number of Tweets : **141,084,354**
 
 Language breakdown of top 15 most prevalent languages :
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 46,027,619       | 72.58%             |
-| Spanish         | es      | 3,568,412        | 5.63%              |
-| French          | fr      | 2,388,366        | 3.77%              | 
-| Undefined       | und     | 2,055,267        | 3.24%              | 
-| German          | de      | 1,289,814        | 2.03%              |
-| Japanese        | ja      | 1,232,532        | 1.94%              |
-| Turkish         | tr      | 1,006,548        | 1.59%              | 
-| Italian         | it      | 903,205          | 1.42%              |
-| Portuguese      | pt      | 899,671          | 1.42%              |
-| Russian         | ru      | 622,920          | 0.98%              |
-| Thai            | th      | 503,889          | 0.79%              |
-| Polish          | pl      | 465,238          | 0.73%              |
-| Ukrainian       | uk      | 406,535          | 0.64%              |
-| Indonesian      | in      | 302,191          | 0.48%              |
-| Hindi           | hi      | 272,851          | 0.43%              |
+| English         | en      | 103,148,176      | 73.11%             |
+| Spanish         | es      | 6,824,764        | 4.84%              |
+| French          | fr      | 5,322,756        | 3.77%              |
+| Undefined       | und     | 4,742,414        | 3.36%              |
+| Japanese        | ja      | 2,911,591        | 2.06%              |
+| German          | de      | 2,873,438        | 2.04%              |
+| Italian         | it      | 2,650,310        | 1.88%              |
+| Russian         | ru      | 1,914,236        | 1.36%              |
+| Turkish         | tr      | 1,668,966        | 1.18%              |
+| Portuguese      | pt      | 1,518,027        | 1.08%              |
+| Ukrainian       | uk      | 1,451,532        | 1.03%              |
+| Polish          | pl      | 1,134,799        | 0.8%               |
+| Thai            | th      | 715,638          | 0.51%              |
+| Indonesian      | in      | 540,813          | 0.38%              |
+| Dutch           | nl      | 437,723          | 0.31%              |
 
 # Known Gaps
 | Date          | Time              |

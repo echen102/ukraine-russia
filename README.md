@@ -60,27 +60,27 @@ BibTeX:
 ```
 
 
-# Statistics Summary (v1.1)
-Number of Tweets : **141,084,354**
+# S# Statistics Summary (v1.2) 
+Number of Tweets : **454,488,445**
 
-Language breakdown of top 15 most prevalent languages :
+Language breakdown of top 15 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 103,148,176      | 73.11%             |
-| Spanish         | es      | 6,824,764        | 4.84%              |
-| French          | fr      | 5,322,756        | 3.77%              |
-| Undefined       | und     | 4,742,414        | 3.36%              |
-| Japanese        | ja      | 2,911,591        | 2.06%              |
-| German          | de      | 2,873,438        | 2.04%              |
-| Italian         | it      | 2,650,310        | 1.88%              |
-| Russian         | ru      | 1,914,236        | 1.36%              |
-| Turkish         | tr      | 1,668,966        | 1.18%              |
-| Portuguese      | pt      | 1,518,027        | 1.08%              |
-| Ukrainian       | uk      | 1,451,532        | 1.03%              |
-| Polish          | pl      | 1,134,799        | 0.8%               |
-| Thai            | th      | 715,638          | 0.51%              |
-| Indonesian      | in      | 540,813          | 0.38%              |
-| Dutch           | nl      | 437,723          | 0.31%              |
+| English         | en      | 321,088,619      | 70.65%             |
+| Spanish         | es      | 18,358,931       | 4.04%              |
+| French          | fr      | 17,857,397       | 3.93%              |
+| German          | de      | 14,533,854       | 3.2%               |
+| Italian         | it      | 11,589,565       | 2.55%              |
+| Undefined       | und     | 11,473,234       | 2.52%              |
+| Russian         | ru      | 9,968,421        | 2.19%              |
+| Japanese        | ja      | 9,113,466        | 2.01%              |
+| Ukrainian       | uk      | 8,016,384        | 1.76%              |
+| Turkish         | tr      | 6,219,988        | 1.37%              |
+| Portuguese      | pt      | 3,897,544        | 0.86%              |
+| Polish          | pl      | 3,411,167        | 0.75%              |
+| Dutch           | nl      | 1,837,698        | 0.4%               |
+| Indonesian      | in      | 1,607,514        | 0.35%              |
+| Chinese         | zh      | 1,430,735        | 0.31%              |
 
 # Known Gaps
 | Date          | Time              |

@@ -60,7 +60,7 @@ BibTeX:
 ```
 
 
-# S# Statistics Summary (v1.2) 
+## Statistics Summary (v1.2) 
 Number of Tweets : **454,488,445**
 
 Language breakdown of top 15 most prevalent languages : 

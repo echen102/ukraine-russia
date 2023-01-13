@@ -60,13 +60,8 @@ BibTeX:
 ```
 
 
-<<<<<<< HEAD
 # Statistics Summary (v1.3)
 Number of Tweets : **571,558,960**
-=======
-## Statistics Summary (v1.2) 
-Number of Tweets : **454,488,445**
->>>>>>> e7ccd653370f17f8e4fb435761ef3de1e77262c7
 
 Language breakdown of top 10 most prevalent languages :
 | Language        | ISO     | No. tweets       | % total Tweets     |

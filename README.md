@@ -4,6 +4,7 @@ The repository contains an ongoing collection of tweets IDs associated with the 
 
 The associated paper to this repository can be found here: [Tweets in Time of Conflict: A Public Dataset Tracking the Twitter Discourse on the War Between Ukraine and Russia](https://arxiv.org/abs/2203.07488)
 
+**Due to Twitter's changing policies around their free API, we are unsure of how this will impact academic access to the API. We will continue to collect tweets and update this repository for as long as we can.**
 
 ## Data Organization
 The Tweet-IDs are organized as follows:
@@ -60,22 +61,22 @@ BibTeX:
 ```
 
 
-# Statistics Summary (v1.3)
-Number of Tweets : **571,558,960**
+# Statistics Summary (v1.4)
+Number of Tweets : **601,848,471**
 
 Language breakdown of top 10 most prevalent languages :
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 406,376,392      | 71.1%              |
-| French          | fr      | 23,371,718       | 4.09%              |
-| Spanish         | es      | 22,154,023       | 3.88%              |
-| German          | de      | 18,154,279       | 3.18%              |
-| Italian         | it      | 14,011,497       | 2.45%              |
-| Russian         | ru      | 12,575,979       | 2.2%               |
-| Undefined       | und     | 12,468,591       | 2.18%              |
-| Japanese        | ja      | 10,845,286       | 1.9%               |
-| Ukrainian       | uk      | 10,243,136       | 1.79%              |
-| Turkish         | tr      | 7,346,366        | 1.29%              |
+| English         | en      | 427,556,217      | 71.04%             |
+| French          | fr      | 25,059,327       | 4.16%              |
+| Spanish         | es      | 22,843,274       | 3.8%               |
+| German          | de      | 19,766,768       | 3.28%              |
+| Italian         | it      | 14,773,605       | 2.45%              |
+| Russian         | ru      | 13,157,263       | 2.19%              |
+| Undefined       | und     | 12,735,856       | 2.12%              |
+| Japanese        | ja      | 11,190,426       | 1.86%              |
+| Ukrainian       | uk      | 10,829,828       | 1.8%               |
+| Turkish         | tr      | 7,812,365        | 1.3%               |
 
 # Known Gaps
 | Date          | Time              |
